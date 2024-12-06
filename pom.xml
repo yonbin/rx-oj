@@ -12,9 +12,9 @@
         <relativePath/> <!-- lookup parent from repository -->
     </parent>
     <groupId>com.rx</groupId>
-    <artifactId>gu-backend</artifactId>
+    <artifactId>rx-oj</artifactId>
     <version>0.0.1-SNAPSHOT</version>
-    <name>gu-backend</name>
+    <name>rx-oj</name>
     <properties>
         <java.version>1.8</java.version>
     </properties>
